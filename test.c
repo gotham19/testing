@@ -5,4 +5,5 @@ void main()
 printf("this is test");
 printf("this is bala");
 getch();
+exit(0);
 }
