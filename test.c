@@ -2,9 +2,11 @@
 #include<conio.h>
 void main()
 {
+<<<<<<< HEAD
 
 printf("this is tester");
-printf("this is bala");
+printf(" gowtham test");
+printf("this is test");
 getch();
-exit(0);
+clrscr();
 }
