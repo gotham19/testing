@@ -22,4 +22,8 @@ author name:Bala
 hi gtm
 =======
 >>>>>>> fdcd9e141dfcb92176d57e5a8207aad16b71afe0
+<<<<<<< HEAD
+Footer added
+=======
 >>>>>>> eeb40c874995317847f099089b3623630402d6ad
+>>>>>>> 7cdc4c4eceb16cabf95f013abd60e3e34d3cb75a
