@@ -18,5 +18,12 @@ author name:Bala M S
 =======
 author name:Bala
 >>>>>>> 092272d6a33a94d7c834ecabbeb484a1effdeb07
+<<<<<<< HEAD
+hi gtm
+=======
 >>>>>>> fdcd9e141dfcb92176d57e5a8207aad16b71afe0
+<<<<<<< HEAD
 Footer added
+=======
+>>>>>>> eeb40c874995317847f099089b3623630402d6ad
+>>>>>>> 7cdc4c4eceb16cabf95f013abd60e3e34d3cb75a
