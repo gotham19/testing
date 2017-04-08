@@ -12,6 +12,7 @@ print ("editing the for loop here");
 printf("this is tester");
 printf(" gowtham test");
 printf("this is test");
+exit(0);
 getch();
 clrscr();
 }
