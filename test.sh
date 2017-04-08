@@ -9,5 +9,13 @@ this is so cool and great
 this is edited  version
 =======
 i am the editor
+<<<<<<< HEAD
+author name : gowtham
+=======
 >>>>>>> a295b58f3daaa124e2f2716b8364c4229732ae0d
+<<<<<<< HEAD
 author name:Bala M S
+=======
+author name:Bala
+>>>>>>> 092272d6a33a94d7c834ecabbeb484a1effdeb07
+>>>>>>> fdcd9e141dfcb92176d57e5a8207aad16b71afe0
