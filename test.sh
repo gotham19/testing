@@ -10,4 +10,4 @@ this is edited  version
 =======
 i am the editor
 >>>>>>> a295b58f3daaa124e2f2716b8364c4229732ae0d
-author name:Bala M
+author name:Bala M S
