@@ -13,6 +13,13 @@ i am the editor
 author name : gowtham
 =======
 >>>>>>> a295b58f3daaa124e2f2716b8364c4229732ae0d
+<<<<<<< HEAD
+author name:Bala M S
+=======
 author name:Bala
 >>>>>>> 092272d6a33a94d7c834ecabbeb484a1effdeb07
+<<<<<<< HEAD
 hi gtm
+=======
+>>>>>>> fdcd9e141dfcb92176d57e5a8207aad16b71afe0
+>>>>>>> eeb40c874995317847f099089b3623630402d6ad
