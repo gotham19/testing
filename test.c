@@ -2,6 +2,7 @@
 #include<conio.h>
 void main()
 {
-printf("thisis test");
+printf("this is tester");
+printf(" gowtham test");
 getch();
 }
