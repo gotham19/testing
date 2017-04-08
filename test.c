@@ -7,7 +7,11 @@ for(i=0;i<n;i++)
 {
 print($i);
 print ("editing the for loop here");
+<<<<<<< HEAD
+// adding extra lines here this is good 
+=======
 // adding extra lines here this is bullshit
+>>>>>>> 35433777fea54077c25ba45e03b07ef9c30e480f
 }
 printf("this is tester");
 printf(" gowtham test");
