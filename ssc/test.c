@@ -19,4 +19,9 @@ printf("this is test");
 exit(0);
 getch();
 clrscr();
+<<<<<<< HEAD
+bye
+=======
+hi
+>>>>>>> 370cf18b0af769106d3ae7aa4bb8b71fab53991e
 }
